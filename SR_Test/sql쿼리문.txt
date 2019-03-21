@@ -1,0 +1,11 @@
+
+show databases;
+use speech_db;
+
+show tables;
+
+select * from words;
+
+insert into words (input, out_1, out_2, out_3, type) values('ÇÏ³ª', 'ne_1', 'resp_1', 'resp_2', 1);
+
+

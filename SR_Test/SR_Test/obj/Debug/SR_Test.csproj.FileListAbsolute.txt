@@ -1,0 +1,38 @@
+c:\users\copynull\documents\visual studio 2013\Projects\SR_Test\SR_Test\bin\Debug\SR_Test.exe.config
+c:\users\copynull\documents\visual studio 2013\Projects\SR_Test\SR_Test\bin\Debug\SR_Test.exe
+c:\users\copynull\documents\visual studio 2013\Projects\SR_Test\SR_Test\bin\Debug\SR_Test.pdb
+c:\users\copynull\documents\visual studio 2013\Projects\SR_Test\SR_Test\obj\Debug\SR_Test.Form1.resources
+c:\users\copynull\documents\visual studio 2013\Projects\SR_Test\SR_Test\obj\Debug\SR_Test.Properties.Resources.resources
+c:\users\copynull\documents\visual studio 2013\Projects\SR_Test\SR_Test\obj\Debug\SR_Test.csproj.GenerateResource.Cache
+c:\users\copynull\documents\visual studio 2013\Projects\SR_Test\SR_Test\obj\Debug\SR_Test.exe
+c:\users\copynull\documents\visual studio 2013\Projects\SR_Test\SR_Test\obj\Debug\SR_Test.pdb
+C:\Users\User\Downloads\SR_Test\SR_Test\bin\Debug\SR_Test.exe.config
+C:\Users\User\Downloads\SR_Test\SR_Test\obj\Debug\SR_Test.exe
+C:\Users\User\Downloads\SR_Test\SR_Test\obj\Debug\SR_Test.pdb
+C:\Users\User\Desktop\음성인식\SR_Test\SR_Test\bin\Debug\SR_Test.exe.config
+C:\Users\User\Desktop\음성인식\SR_Test\SR_Test\obj\Debug\SR_Test.exe
+C:\Users\User\Desktop\음성인식\SR_Test\SR_Test\obj\Debug\SR_Test.pdb
+C:\Users\User\Desktop\음성인식\SR_Test\SR_Test\bin\Debug\SR_Test.exe
+C:\Users\User\Desktop\음성인식\SR_Test\SR_Test\bin\Debug\SR_Test.pdb
+C:\Users\User\Desktop\음성인식\SR_Test\SR_Test\obj\Debug\SR_Test.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\음성인식\SR_Test\SR_Test\obj\Debug\SR_Test.Form1.resources
+C:\Users\User\Desktop\음성인식\SR_Test\SR_Test\obj\Debug\SR_Test.Properties.Resources.resources
+C:\Users\User\Desktop\음성인식\SR_Test\SR_Test\obj\Debug\SR_Test.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Projects\음성인식\SR_Test\SR_Test\bin\Debug\SR_Test.exe.config
+C:\Users\User\Desktop\Projects\음성인식\SR_Test\SR_Test\obj\Debug\SR_Test.exe
+C:\Users\User\Desktop\Projects\음성인식\SR_Test\SR_Test\obj\Debug\SR_Test.pdb
+C:\Users\User\Desktop\Projects\음성인식\SR_Test\SR_Test\bin\Debug\SR_Test.exe
+C:\Users\User\Desktop\Projects\음성인식\SR_Test\SR_Test\bin\Debug\SR_Test.pdb
+C:\Users\User\Desktop\Projects\음성인식\SR_Test\SR_Test\obj\Debug\SR_Test.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Projects\음성인식\SR_Test\SR_Test\obj\Debug\SR_Test.Form1.resources
+C:\Users\User\Desktop\Projects\음성인식\SR_Test\SR_Test\obj\Debug\SR_Test.Properties.Resources.resources
+C:\Users\User\Desktop\Projects\음성인식\SR_Test\SR_Test\obj\Debug\SR_Test.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\AdminLF\C#\음성인식\SR_Test\SR_Test\bin\Debug\SR_Test.exe.config
+C:\Users\User\Desktop\AdminLF\C#\음성인식\SR_Test\SR_Test\obj\Debug\SR_Test.exe
+C:\Users\User\Desktop\AdminLF\C#\음성인식\SR_Test\SR_Test\obj\Debug\SR_Test.pdb
+C:\Users\User\Desktop\AdminLF\C#\음성인식\SR_Test\SR_Test\bin\Debug\SR_Test.exe
+C:\Users\User\Desktop\AdminLF\C#\음성인식\SR_Test\SR_Test\bin\Debug\SR_Test.pdb
+C:\Users\User\Desktop\AdminLF\C#\음성인식\SR_Test\SR_Test\obj\Debug\SR_Test.Form1.resources
+C:\Users\User\Desktop\AdminLF\C#\음성인식\SR_Test\SR_Test\obj\Debug\SR_Test.Properties.Resources.resources
+C:\Users\User\Desktop\AdminLF\C#\음성인식\SR_Test\SR_Test\obj\Debug\SR_Test.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\AdminLF\C#\음성인식\SR_Test\SR_Test\obj\Debug\SR_Test.csprojResolveAssemblyReference.cache
